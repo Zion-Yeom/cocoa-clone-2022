@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&display=swap');
+@import "reset.css";
+@import "variable.css";
+
+/* Components */
+@import "components/status-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+
+
+body {
+    font-family: 'Fredoka One', 'Bebas Neue', cursive;
+}
+
